@@ -1,7 +1,13 @@
 # Reviva - Sales taxes problem
 
-How to run it?<br>
-Simply put the folder inside your webserver
+
+## Install
+```bash
+git clone https://github.com/axelbad/reviva.git
+```
+
+## Run
+You have to run a web server (e.g. Apache) and browse to your localhost
 
 For example
 http://localhost/reviva/index.php
